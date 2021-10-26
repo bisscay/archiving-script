@@ -1,4 +1,4 @@
-## Welcome to the Archiving Script Wiki
+## Welcome to the compressionScript Tool
 
 Python script for lossless compression of processed files into archives using Gzip
 
